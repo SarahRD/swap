@@ -20,7 +20,9 @@ ________________________________________________________________________________
 <b>Angular7</b><br>
 <b>Node.js</b><br>
 <b>CSS library</b> to define<br>
-<b>MySQL</b>
+<b>MySQL</b><br>
+<b>SCRUM methodology</b><br>
+<b>Design thinking methodology</b>
 ______________________________________________________________________________________________________________________
 
 -> <i>Project carried out for school<br>
